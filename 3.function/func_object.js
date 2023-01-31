@@ -27,11 +27,18 @@ let humanHas = {
 
 
 //set property new value
-console.log(humanHas.bones=44);
-console.log(humanHas['teeth']=34);
+// console.log(humanHas.bones=44);
+// console.log(humanHas['teeth']=34);
 
-let changeFingureValue = 'fingure';
-console.log(humanHas[changeFingureValue]=12);
+// let changeFingureValue = 'fingure';
+// console.log(humanHas[changeFingureValue]=12);
+
+
+
+
+
+//function call
+
 
 
 
